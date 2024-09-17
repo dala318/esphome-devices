@@ -13,9 +13,9 @@ Gateway to communicate with REGO 6xx equiped heat-pumps. Using serial communicat
 Are ready-made devices from [Husdata H66](https://husdata.se/produkt/h66-wifi-gateway/) which should be compatible
 
 Other noteworthy links
-  - [how to connect heat pump with Rego 6xx controller](https://rago600.sourceforge.net/) (a lot of information about the Rego600 interface)
-  - [openhab addons](https://github.com/openhab/openhab-addons/tree/main/bundles/org.openhab.binding.regoheatpump), [mappings](https://github.com/openhab/openhab-addons/blob/main/bundles/org.openhab.binding.regoheatpump/src/main/java/org/openhab/binding/regoheatpump/internal/rego6xx/RegoRegisterMapper.java) (SW implementation for the interface)
-  - [Serial communication via optocouplers](https://forum.arduino.cc/t/serial-communication-via-optocouplers/686872/26) (basics for galvanic isolation and voltage level adaption)
+- [how to connect heat pump with Rego 6xx controller](https://rago600.sourceforge.net/) (a lot of information about the Rego600 interface)
+- [openhab addons](https://github.com/openhab/openhab-addons/tree/main/bundles/org.openhab.binding.regoheatpump), [mappings](https://github.com/openhab/openhab-addons/blob/main/bundles/org.openhab.binding.regoheatpump/src/main/java/org/openhab/binding/regoheatpump/internal/rego6xx/RegoRegisterMapper.java) (SW implementation for the interface)
+- [Serial communication via optocouplers](https://forum.arduino.cc/t/serial-communication-via-optocouplers/686872/26) (basics for galvanic isolation and voltage level adaption)
 
 ## Device Specific Config
 
